@@ -44,7 +44,7 @@ export default function MentionsLegales() {
             <h2 className="text-2xl font-semibold mb-4">3. Activité commerciale</h2>
             <p className="mb-4">
               FMS est un projet à but lucratif proposant un serveur Minecraft de jeu de rôle 
-              basé sur l'univers Naruto. Le serveur génère des revenus par la vente de 
+              basé sur l&apos;univers Naruto. Le serveur génère des revenus par la vente de 
               contenu in-game (skins, accessoires, avantages) aux joueurs.
             </p>
             <p className="mb-4">

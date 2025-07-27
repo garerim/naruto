@@ -25,7 +25,7 @@ export default function PolitiqueConfidentialite() {
 
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">2. Données collectées</h2>
-            <h3 className="text-xl font-semibold mb-3">2.1 Données d'identification</h3>
+            <h3 className="text-xl font-semibold mb-3">2.1 Données d&apos;identification</h3>
             <ul className="list-disc pl-6 mb-4">
               <li>Nom d&apos;utilisateur Minecraft (UUID)</li>
               <li>Nom d&apos;utilisateur Discord (pour le support)</li>

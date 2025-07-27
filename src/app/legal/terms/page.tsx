@@ -5,11 +5,11 @@ export default function ConditionsGenerales() {
   return (
     <div className="min-h-screen bg-background py-12">
       <div className="container mx-auto px-4 max-w-4xl">
-        <h1 className="text-4xl font-bold text-center mb-8 mt-20">Conditions Generales d'Utilisation</h1>
+        <h1 className="text-4xl font-bold text-center mb-8 mt-20">Conditions Generales d&apos;Utilisation</h1>
         
         <div className="font-sans text-base leading-relaxed max-w-none">
           <section className="mb-8">
-            <h2 className="text-2xl font-semibold mb-4">1. Objet et champ d'application</h2>
+            <h2 className="text-2xl font-semibold mb-4">1. Objet et champ d&apos;application</h2>
             <p className="mb-4">
               Les présentes Conditions Générales d&apos;Utilisation (CGU) régissent l&apos;accès 
               et l&apos;utilisation du site web FMS ainsi que la participation au serveur 
@@ -26,10 +26,10 @@ export default function ConditionsGenerales() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">2. Définitions</h2>
             <ul className="list-disc pl-6 mb-4">
-              <li><strong>FMS :</strong> Serveur Minecraft de jeu de rôle basé sur l'univers Naruto</li>
+              <li><strong>FMS :</strong> Serveur Minecraft de jeu de rôle basé sur l&apos;univers Naruto</li>
               <li><strong>Utilisateur :</strong> Toute personne accédant au site, participant au serveur ou effectuant des achats</li>
               <li><strong>Serveur :</strong> Le serveur Minecraft de jeu de rôle FMS</li>
-              <li><strong>Staff :</strong> L'équipe de modération et d'administration de FMS</li>
+              <li><strong>Staff :</strong> L&apos;équipe de modération et d&apos;administration de FMS</li>
               <li><strong>Contenu in-game :</strong> Skins, accessoires, avantages et autres éléments virtuels vendus</li>
             </ul>
           </section>
@@ -37,7 +37,7 @@ export default function ConditionsGenerales() {
           <Separator className="my-8" />
 
           <section className="mb-8">
-            <h2 className="text-2xl font-semibold mb-4">3. Conditions d'accès</h2>
+            <h2 className="text-2xl font-semibold mb-4">3. Conditions d&apos;accès</h2>
             <p className="mb-4">
               <strong>Âge minimum :</strong> L&apos;accès au serveur FMS est autorisé aux personnes 
               âgées de 13 ans minimum. Les mineurs doivent avoir l&apos;autorisation parentale.
@@ -70,7 +70,7 @@ export default function ConditionsGenerales() {
               <li>Propos discriminatoires, racistes ou haineux</li>
               <li>Harcèlement sous toutes ses formes</li>
               <li>Publicité non autorisée</li>
-              <li>Partage d'informations personnelles d'autrui</li>
+              <li>Partage d&apos;informations personnelles d&apos;autrui</li>
             </ul>
 
             <h3 className="text-xl font-semibold mb-3">4.3 Règles de jeu de rôle</h3>
@@ -104,7 +104,7 @@ export default function ConditionsGenerales() {
           <Separator className="my-8" />
 
           <section className="mb-8">
-            <h2 className="text-2xl font-semibold mb-4">6. Conditions d'achat</h2>
+            <h2 className="text-2xl font-semibold mb-4">6. Conditions d&apos;achat</h2>
             <h3 className="text-xl font-semibold mb-3">6.1 Contenu in-game</h3>
             <ul className="list-disc pl-6 mb-4">
               <li>Les achats de contenu in-game sont définitifs</li>
@@ -161,7 +161,7 @@ export default function ConditionsGenerales() {
               sont pas transmises à des tiers.
             </p>
             <p className="mb-4">
-              Pour plus d'informations, consultez notre 
+              Pour plus d&apos;informations, consultez notre 
               <a href="/legal/privacy" className="text-blue-600 hover:underline"> Politique de confidentialité</a>.
             </p>
           </section>
