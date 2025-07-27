@@ -43,7 +43,7 @@ export default function JoinServer({ players }: JoinServerProps) {
                 <div className='flex flex-col justify-center items-center w-full md:w-1/2 h-full p-6'>
                     <div className='text-center'>
                         <h2 className='text-3xl text-white mb-4 drop-shadow-lg'>
-                            Prenez part a l'aventure !
+                            Prenez part a l&apos;aventure !
                         </h2>
                         <p className='text-lg text-white/90 drop-shadow-md'>
                             Rejoignez les autres ninjas sur notre serveur !

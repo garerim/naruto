@@ -24,7 +24,7 @@ export default function Footer() {
               <span className="text-lg">FMS © 2025</span>
             </p>
             <p className="text-xs opacity-75 mt-2">
-              FMS est un serveur Minecraft de jeu de rôle base sur l'univers Naruto.
+              FMS est un serveur Minecraft de jeu de rôle base sur l&apos;univers Naruto.
             </p>
           </div>
 
@@ -97,7 +97,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link href="/legal/terms" className="hover:underline transition-colors hover:text-blue-200">
-                  Conditions generales d'utilisation
+                  Conditions generales d&apos;utilisation
                 </Link>
               </li>
               <li>

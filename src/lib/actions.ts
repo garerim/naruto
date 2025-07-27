@@ -2,7 +2,6 @@
 
 import { z } from 'zod'
 import prisma from '@/lib/prisma'
-import { redirect } from 'next/navigation'
 
 const loginSchema = z.object({
     pseudo: z.string().min(1),

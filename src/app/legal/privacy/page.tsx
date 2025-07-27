@@ -11,7 +11,7 @@ export default function PolitiqueConfidentialite() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">1. Introduction</h2>
             <p className="mb-4">
-              FMS s'engage à protéger la vie privée de ses utilisateurs. Cette politique 
+              FMS s&apos;engage à protéger la vie privée de ses utilisateurs. Cette politique 
               de confidentialité explique comment nous collectons, utilisons et protégeons 
               vos données personnelles sur notre serveur Minecraft et notre boutique en ligne.
             </p>
@@ -27,13 +27,13 @@ export default function PolitiqueConfidentialite() {
             <h2 className="text-2xl font-semibold mb-4">2. Données collectées</h2>
             <h3 className="text-xl font-semibold mb-3">2.1 Données d'identification</h3>
             <ul className="list-disc pl-6 mb-4">
-              <li>Nom d'utilisateur Minecraft (UUID)</li>
-              <li>Nom d'utilisateur Discord (pour le support)</li>
+              <li>Nom d&apos;utilisateur Minecraft (UUID)</li>
+              <li>Nom d&apos;utilisateur Discord (pour le support)</li>
               <li>Adresse email (pour les achats et communications)</li>
               <li>Informations de facturation (pour les achats)</li>
             </ul>
 
-            <h3 className="text-xl font-semibold mb-3">2.2 Données d'utilisation</h3>
+            <h3 className="text-xl font-semibold mb-3">2.2 Données d&apos;utilisation</h3>
             <ul className="list-disc pl-6 mb-4">
               <li>Activité de jeu sur le serveur Minecraft</li>
               <li>Statistiques de jeu et progression</li>
@@ -79,7 +79,7 @@ export default function PolitiqueConfidentialite() {
             <ul className="list-disc pl-6 mb-4">
               <li><strong>Consentement :</strong> Participation volontaire au serveur</li>
               <li><strong>Intérêt légitime :</strong> Sécurité et modération du serveur</li>
-              <li><strong>Exécution d'un contrat :</strong> Traitement des achats et livraison du contenu</li>
+              <li><strong>Exécution d&apos;un contrat :</strong> Traitement des achats et livraison du contenu</li>
               <li><strong>Obligation légale :</strong> Conformité fiscale et comptable</li>
             </ul>
           </section>
@@ -93,8 +93,8 @@ export default function PolitiqueConfidentialite() {
               peuvent être partagées uniquement dans les cas suivants :
             </p>
             <ul className="list-disc pl-6 mb-4">
-              <li>Avec l'équipe de modération FMS (accès restreint)</li>
-              <li>En cas d'obligation légale (sur demande des autorités)</li>
+              <li>Avec l&apos;équipe de modération FMS (accès restreint)</li>
+              <li>En cas d&apos;obligation légale (sur demande des autorités)</li>
               <li>Pour protéger nos droits et la sécurité des utilisateurs</li>
               <li>Avec des prestataires techniques (Mojang, hébergement)</li>
               <li>Avec des prestataires de paiement (PayPal, Stripe)</li>
@@ -116,8 +116,8 @@ export default function PolitiqueConfidentialite() {
               <li>Conserver les données de facturation (10 ans minimum)</li>
             </ul>
             <p className="mb-4">
-              Les données d'utilisateurs inactifs depuis plus de 2 ans peuvent être 
-              supprimées, sauf en cas d'obligation légale de conservation.
+              Les données d&apos;utilisateurs inactifs depuis plus de 2 ans peuvent être 
+              supprimées, sauf en cas d&apos;obligation légale de conservation.
             </p>
           </section>
 
@@ -130,13 +130,13 @@ export default function PolitiqueConfidentialite() {
               vos données contre :
             </p>
             <ul className="list-disc pl-6 mb-4">
-              <li>L'accès non autorisé</li>
+              <li>L&apos;accès non autorisé</li>
               <li>La modification ou la suppression</li>
               <li>La divulgation accidentelle</li>
               <li>La perte de données</li>
             </ul>
             <p className="mb-4">
-              Cependant, aucune transmission sur Internet n'est totalement sécurisée.
+              Cependant, aucune transmission sur Internet n&apos;est totalement sécurisée.
             </p>
           </section>
 
@@ -148,12 +148,12 @@ export default function PolitiqueConfidentialite() {
               Conformément au RGPD, vous disposez des droits suivants :
             </p>
             <ul className="list-disc pl-6 mb-4">
-              <li><strong>Droit d'accès :</strong> Obtenir une copie de vos données</li>
+              <li><strong>Droit d&apos;accès :</strong> Obtenir une copie de vos données</li>
               <li><strong>Droit de rectification :</strong> Corriger des données inexactes</li>
-              <li><strong>Droit à l'effacement :</strong> Supprimer vos données (sous conditions)</li>
+              <li><strong>Droit à l&apos;effacement :</strong> Supprimer vos données (sous conditions)</li>
               <li><strong>Droit à la limitation :</strong> Limiter le traitement</li>
               <li><strong>Droit à la portabilité :</strong> Récupérer vos données</li>
-              <li><strong>Droit d'opposition :</strong> Vous opposer au traitement</li>
+              <li><strong>Droit d&apos;opposition :</strong> Vous opposer au traitement</li>
             </ul>
             <p className="mb-4">
               Pour exercer ces droits, contactez-nous via Discord ou email.
@@ -169,7 +169,7 @@ export default function PolitiqueConfidentialite() {
             </p>
             <ul className="list-disc pl-6 mb-4">
               <li>Améliorer votre expérience de navigation</li>
-              <li>Analyser l'utilisation du site</li>
+              <li>Analyser l&apos;utilisation du site</li>
               <li>Retenir vos préférences</li>
             </ul>
             <p className="mb-4">
@@ -182,7 +182,7 @@ export default function PolitiqueConfidentialite() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">10. Transferts internationaux</h2>
             <p className="mb-4">
-              Vos données peuvent être transférées vers des pays hors de l'Union 
+              Vos données peuvent être transférées vers des pays hors de l&apos;Union 
               européenne, notamment vers les États-Unis (Mojang, PayPal, Stripe, Vercel).
             </p>
             <p className="mb-4">
@@ -218,7 +218,7 @@ export default function PolitiqueConfidentialite() {
               <li>Email : fmshippudenrp@gmail.com</li>
             </ul>
             <p className="mb-4">
-              Vous pouvez également contacter l'autorité de contrôle compétente 
+              Vous pouvez également contacter l&apos;autorité de contrôle compétente 
               (CNIL en France) si vous estimez que vos droits ne sont pas respectés.
             </p>
           </section>

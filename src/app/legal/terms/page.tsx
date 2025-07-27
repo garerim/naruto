@@ -11,8 +11,8 @@ export default function ConditionsGenerales() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">1. Objet et champ d'application</h2>
             <p className="mb-4">
-              Les présentes Conditions Générales d'Utilisation (CGU) régissent l'accès 
-              et l'utilisation du site web FMS ainsi que la participation au serveur 
+              Les présentes Conditions Générales d&apos;Utilisation (CGU) régissent l&apos;accès 
+              et l&apos;utilisation du site web FMS ainsi que la participation au serveur 
               Minecraft de jeu de rôle associé.
             </p>
             <p className="mb-4">
@@ -39,16 +39,16 @@ export default function ConditionsGenerales() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">3. Conditions d'accès</h2>
             <p className="mb-4">
-              <strong>Âge minimum :</strong> L'accès au serveur FMS est autorisé aux personnes 
-              âgées de 13 ans minimum. Les mineurs doivent avoir l'autorisation parentale.
+              <strong>Âge minimum :</strong> L&apos;accès au serveur FMS est autorisé aux personnes 
+              âgées de 13 ans minimum. Les mineurs doivent avoir l&apos;autorisation parentale.
             </p>
             <p className="mb-4">
-              <strong>Inscription :</strong> L'accès au serveur Minecraft est gratuit et nécessite 
+              <strong>Inscription :</strong> L&apos;accès au serveur Minecraft est gratuit et nécessite 
               un compte Minecraft valide (Java Edition).
             </p>
             <p className="mb-4">
               <strong>Achats :</strong> Les achats de contenu in-game sont optionnels et 
-              s'effectuent via notre boutique en ligne sécurisée.
+              s&apos;effectuent via notre boutique en ligne sécurisée.
             </p>
           </section>
 
@@ -75,7 +75,7 @@ export default function ConditionsGenerales() {
 
             <h3 className="text-xl font-semibold mb-3">4.3 Règles de jeu de rôle</h3>
             <ul className="list-disc pl-6 mb-4">
-              <li>Respecter l'univers Naruto et sa cohérence</li>
+              <li>Respecter l&apos;univers Naruto et sa cohérence</li>
               <li>Éviter le Meta-gaming et le God-modding</li>
               <li>Respecter les autres joueurs et leurs personnages</li>
               <li>Suivre les règles spécifiques au jeu établies par le Staff</li>
@@ -96,7 +96,7 @@ export default function ConditionsGenerales() {
               <li>Exclusion définitive (ban)</li>
             </ul>
             <p className="mb-4">
-              Le Staff se réserve le droit d'appliquer les sanctions qu'il juge 
+              Le Staff se réserve le droit d&apos;appliquer les sanctions qu&apos;il juge 
               appropriées selon la gravité des faits.
             </p>
           </section>
@@ -110,13 +110,13 @@ export default function ConditionsGenerales() {
               <li>Les achats de contenu in-game sont définitifs</li>
               <li>Le contenu acheté est lié à votre compte utilisateur</li>
               <li>Les prix sont indiqués en euros TTC</li>
-              <li>Le paiement s'effectue via des moyens sécurisés (PayPal, Stripe)</li>
+              <li>Le paiement s&apos;effectue via des moyens sécurisés (PayPal, Stripe)</li>
             </ul>
 
             <h3 className="text-xl font-semibold mb-3">6.2 Remboursements</h3>
             <ul className="list-disc pl-6 mb-4">
-              <li>Les remboursements ne sont accordés qu'en cas de dysfonctionnement technique</li>
-              <li>Aucun remboursement pour changement d'avis ou ban du serveur</li>
+              <li>Les remboursements ne sont accordés qu&apos;en cas de dysfonctionnement technique</li>
+              <li>Aucun remboursement pour changement d&apos;avis ou ban du serveur</li>
               <li>Les demandes de remboursement doivent être formulées dans les 48h</li>
             </ul>
           </section>
@@ -126,9 +126,9 @@ export default function ConditionsGenerales() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">7. Propriété intellectuelle</h2>
             <p className="mb-4">
-              L'univers Naruto appartient à Masashi Kishimoto. Minecraft appartient 
+              L&apos;univers Naruto appartient à Masashi Kishimoto. Minecraft appartient 
               à Mojang Studios. FMS respecte leurs droits de propriété intellectuelle 
-              et utilise ces univers dans le cadre d'un serveur de jeu privé.
+              et utilise ces univers dans le cadre d&apos;un serveur de jeu privé.
             </p>
             <p className="mb-4">
               Les créations originales des membres (personnages, histoires, artworks) 
@@ -146,7 +146,7 @@ export default function ConditionsGenerales() {
             <ul className="list-disc pl-6 mb-4">
               <li>Interactions entre utilisateurs</li>
               <li>Contenus publiés par les utilisateurs</li>
-              <li>Dommages résultant de l'utilisation du service</li>
+              <li>Dommages résultant de l&apos;utilisation du service</li>
               <li>Interruptions temporaires du service</li>
             </ul>
           </section>
@@ -156,7 +156,7 @@ export default function ConditionsGenerales() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">9. Données personnelles</h2>
             <p className="mb-4">
-              FMS s'engage à respecter votre vie privée. Les données collectées 
+              FMS s&apos;engage à respecter votre vie privée. Les données collectées 
               sont utilisées uniquement pour le fonctionnement du serveur et ne 
               sont pas transmises à des tiers.
             </p>
@@ -175,7 +175,7 @@ export default function ConditionsGenerales() {
               Les utilisateurs seront informés des modifications importantes.
             </p>
             <p className="mb-4">
-              La poursuite de l'utilisation du service après modification vaut 
+              La poursuite de l&apos;utilisation du service après modification vaut 
               acceptation des nouvelles conditions.
             </p>
           </section>

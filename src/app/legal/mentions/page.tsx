@@ -11,8 +11,8 @@ export default function MentionsLegales() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">1. Informations générales</h2>
             <p className="mb-4">
-              Le présent site web est édité par l'équipe FMS, serveur Minecraft de jeu de rôle 
-              basé sur l'univers Naruto créé par Masashi Kishimoto.
+              Le présent site web est édité par l&apos;équipe FMS, serveur Minecraft de jeu de rôle 
+              basé sur l&apos;univers Naruto créé par Masashi Kishimoto.
             </p>
             <p className="mb-4">
               <strong>Nom du site :</strong> FMS<br />
@@ -27,8 +27,8 @@ export default function MentionsLegales() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">2. Propriété intellectuelle</h2>
             <p className="mb-4">
-              L'univers Naruto, ses personnages, lieux et éléments sont la propriété 
-              exclusive de Masashi Kishimoto et de ses ayants droit. FMS n'est pas 
+              L&apos;univers Naruto, ses personnages, lieux et éléments sont la propriété 
+              exclusive de Masashi Kishimoto et de ses ayants droit. FMS n&apos;est pas 
               affilié à Masashi Kishimoto, Studio Pierrot, ou toute autre entité 
               officielle liée à la franchise Naruto.
             </p>
@@ -58,8 +58,8 @@ export default function MentionsLegales() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">4. Responsabilité</h2>
             <p className="mb-4">
-              L'équipe FMS s'efforce de maintenir des informations exactes et à jour, 
-              mais ne peut garantir l'exactitude, la complétude ou l'actualité du 
+              L&apos;équipe FMS s&apos;efforce de maintenir des informations exactes et à jour, 
+              mais ne peut garantir l&apos;exactitude, la complétude ou l&apos;actualité du 
               contenu proposé.
             </p>
             <p className="mb-4">
@@ -87,7 +87,7 @@ export default function MentionsLegales() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">6. Modification des mentions légales</h2>
             <p className="mb-4">
-              L'équipe FMS se réserve le droit de modifier ces mentions légales 
+              L&apos;équipe FMS se réserve le droit de modifier ces mentions légales 
               à tout moment. Les modifications prendront effet dès leur publication 
               sur le site.
             </p>
