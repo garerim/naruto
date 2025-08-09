@@ -4,6 +4,27 @@ import Image from 'next/image'
 import { Separator } from '@/components/ui/separator'
 
 export default function Footer() {
+
+  const handleSmoothScroll = (e: React.MouseEvent<HTMLAnchorElement>, targetId: string) => {
+    e.preventDefault()
+    const element = document.getElementById(targetId)
+    if (element) {
+        const elementRect = element.getBoundingClientRect()
+        const elementTop = elementRect.top + window.scrollY
+        const elementHeight = elementRect.height
+        const windowHeight = window.innerHeight
+        
+        // Calculate position to center the element on screen
+        const targetPosition = elementTop - (windowHeight / 2) + (elementHeight / 2)
+        
+        window.scrollTo({
+            top: targetPosition,
+            left: 0,
+            behavior: 'smooth'
+        })
+    }
+}
+
   return (
     <footer className="bg-accent py-12">
       <div className="container mx-auto px-4">
@@ -38,17 +59,17 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/play" className="hover:underline transition-colors hover:text-blue-200">
+                <a onClick={(e) => handleSmoothScroll(e, 'play')} className="hover:underline transition-colors hover:text-blue-200">
                   Jouer
-                </Link>
+                </a>
               </li>
               <li>
-                <Link href="/vote" className="hover:underline transition-colors hover:text-blue-200">
+                <Link href="/" className="hover:underline transition-colors hover:text-blue-200">
                   Vote
                 </Link>
               </li>
               <li>
-                <Link href="/wiki" className="hover:underline transition-colors hover:text-blue-200">
+                <Link href={`${process.env.NEXT_PUBLIC_WIKI_URL}`} className="hover:underline transition-colors hover:text-blue-200">
                   Wiki
                 </Link>
               </li>
