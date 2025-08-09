@@ -47,7 +47,7 @@ export default function NotFound() {
             Oups ! Il semblerait que cette page se soit perdue dans le village caché des feuilles...
           </p>
           <p className="text-base text-muted-foreground">
-            La page que vous cherchez n'existe pas ou a été déplacée.
+            La page que vous cherchez n&apos;existe pas ou a été déplacée.
           </p>
         </div>
 
@@ -58,7 +58,7 @@ export default function NotFound() {
               size="lg" 
               className="btn-naruto px-8 py-3 text-lg font-bold hover-lift"
             >
-              🏠 Retourner à l'accueil
+              🏠 Retourner à l&apos;accueil
             </Button>
           </Link>
           <Button 
@@ -74,7 +74,7 @@ export default function NotFound() {
         {/* Fun ninja quote */}
         <div className="bg-card/80 backdrop-blur-sm rounded-lg p-6 border border-border/50 hover-lift">
           <blockquote className="text-lg italic text-foreground/80 mb-2">
-            "Un ninja ne doit jamais abandonner !"
+            &ldquo;Un ninja ne doit jamais abandonner !&rdquo;
           </blockquote>
           <cite className="text-sm text-muted-foreground">- Naruto Uzumaki</cite>
         </div>
