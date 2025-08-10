@@ -34,7 +34,7 @@ export default function DiscordBox() {
           REJOINS LE DISCORD
         </h2>
         <p className=' text-white mt-2 tracking-wide'>
-          Rejoignez notre communaute sur Discord pour connaitre les dernieres nouvautes et les evenements.
+          Rejoignez notre communaute sur Discord pour connaitre les dernieres nouveautes et les evenements.
         </p>
         <Link href="https://discord.gg/fms">
           <Button
